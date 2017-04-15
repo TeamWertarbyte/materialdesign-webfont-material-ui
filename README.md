@@ -1,5 +1,7 @@
 # Material Design Webfont for Material-UI
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TeamWertarbyte/materialdesign-webfont-material-ui.svg)](https://greenkeeper.io/)
+
 Sorry for the long repo name, but it pretty much nails it. This tiny module
 provides [Material-UI][material-ui] `<FontIcon />` elements for all
 [Material Design Icons][md-icons]. This is pretty handy if you use React and Material-UI
