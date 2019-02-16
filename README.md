@@ -1,3 +1,9 @@
+# :warning: This project is deprecated
+
+Embedding over 2000 icons with a Webfont is a very bad idea when you are not using all of them (i.e. 99.9% of the time). Please use [our SVG-based Material Design Icons](https://github.com/TeamWertarbyte/mdi-material-ui) components instead.
+
+---
+
 # Material Design Webfont for Material-UI
 
 Sorry for the long repo name, but it pretty much nails it. This tiny module
